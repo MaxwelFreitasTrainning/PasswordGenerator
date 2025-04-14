@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap');
+
+
+span.password {
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 36px;
+    font-style: normal;
+    color: #12743e;
+    background-color: rgba(255, 227, 18, 0.1);
+  }
